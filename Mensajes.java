@@ -10,6 +10,7 @@
  */
 public class Mensajes {
     public static void main(String[] args) {
-        System.out.println("Hola marco");
+        System.out.println("Hola marco ");
+        System.out.println("Responde");
     }
 }
