@@ -11,7 +11,7 @@
 public class Mensajes {
     public static void main(String[] args) {
         System.out.println("Hola marco ");
-        System.out.println("Responde");
-         System.out.println("Que paso");
+        System.out.println("Ya salio");
+        System.out.println("Veamos");
     }
 }
